@@ -16,3 +16,4 @@ firebase.initializeApp(firebaseConfig);
 
 export default firebase;
 //added firebase tools for hosting
+//need to set up firebase login and hosting keys
